@@ -4,7 +4,7 @@ Original URL: http://www.encoremusiclondon.com/rates.html
 
 ---
 
-[- Home](home.html "Home")[- About Us](about-us.html "About Us")[- Samples](samples.html "Samples")[- Videos](videos.html "Videos")[- Testimonials](testimonials.html "Testimonials")[- Rates](rates.html "Rates")[- Contact Us](contact-us.html "Contact Us")[- Blog](blog.html "Blog")[- Links](links.html "Links")
+[- Home](home.md "Home")[- About Us](about-us.md "About Us")[- Samples](samples.md "Samples")[- Videos](videos.md "Videos")[- Testimonials](testimonials.md "Testimonials")[- Rates](rates.md "Rates")[- Contact Us](contact-us.md "Contact Us")[- Blog](blog.md "Blog")[- Links](links.md "Links")
 
 Encore Music London
 
